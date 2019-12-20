@@ -39,8 +39,4 @@ public class TestController extends BaseController{
 		System.out.println(user2.getName());
 		return "";
 	}
-
-	public void test01(){
-
-	}
 }
