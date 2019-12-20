@@ -41,6 +41,6 @@ public class TestController extends BaseController{
 	}
 
 	public void test01(){
-
+		System.out.println("aaa");
 	}
 }
