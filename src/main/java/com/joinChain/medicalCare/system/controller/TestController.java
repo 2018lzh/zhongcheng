@@ -43,4 +43,8 @@ public class TestController extends BaseController{
 	public void test01(){
 		System.out.println("aaa");
 	}
+
+	public static void main(String[] args) {
+		System.out.println("aaa");
+	}
 }
